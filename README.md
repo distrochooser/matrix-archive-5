@@ -15,7 +15,7 @@ See https://docs.djangoproject.com/en/5.0/ref/django-admin/#django-admin-loaddat
 
 ## A plea
 
-Even this dump could be utilized to create a copy of the project please consider contributing to distrochooser/distrochooser instead. Thank you. 
+Even this dump could be utilized to create a copy of the project please consider contributing to distrochooser/distrochooser instead. Thank you :)
 
 ## License
 
