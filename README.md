@@ -10,6 +10,10 @@ See https://docs.djangoproject.com/en/5.0/ref/django-admin/#django-admin-loaddat
 
 The texts are mostly identifiers which refer to a msgid in the translation: https://github.com/distrochooser/translations
 
+## Issues
+
+If you have questions, please open an issue on https://github.com/distrochooser/distrochooser/!
+
 ## Disclaimer:
 
 - **Please note that the licensing differs from the distrochooser/distrochooser repository**
