@@ -4,6 +4,10 @@ This is the archive of the decision matrix for version 5 of Distrochooser.de.
 
 The intention for this dump is to allow developers to experiment with the project without having to create an own matrix.
 
+## Importing:
+
+See https://docs.djangoproject.com/en/5.0/ref/django-admin/#django-admin-loaddata for details (the backend relies on an old version, but the dumping and loading should work).
+
 ## Disclaimer:
 
 - **Please note that the licensing differs from the distrochooser/distrochooser repository**
