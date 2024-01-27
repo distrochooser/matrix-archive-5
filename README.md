@@ -8,6 +8,8 @@ The intention for this dump is to allow developers to experiment with the projec
 
 See https://docs.djangoproject.com/en/5.0/ref/django-admin/#django-admin-loaddata for details (the backend relies on an old version, but the dumping and loading should work).
 
+The texts are mostly identifiers which refer to a msgid in the translation: https://github.com/distrochooser/translations
+
 ## Disclaimer:
 
 - **Please note that the licensing differs from the distrochooser/distrochooser repository**
